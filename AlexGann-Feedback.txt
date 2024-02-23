@@ -1,0 +1,3 @@
+This library seems to consist solely a basic constructor for a potential StateData object to
+store information for a single state.
+It could use more comments, primarily to explain its role in whatever program it is used in.
