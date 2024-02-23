@@ -1,0 +1,9 @@
+Code Review for James_Fowler
+
+I think that created a class that creates State Objects is a great use of a library.
+I've seen several others use it as a connect to the database, but using it in this
+way would be more useful for my program that I created. 
+
+I'm not sure how the rest of your program looks, but I would probably add other 
+constructors in case you need to create a state object that may be missing a 
+field. Otherwise I think this class is solid!
